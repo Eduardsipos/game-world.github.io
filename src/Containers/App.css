@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cinzel', serif;
+    font-style: normal;
+    font-weight: normal;
+   
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff') ;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    font-weight: 5em;
+    color: #0ccac4;
+}
