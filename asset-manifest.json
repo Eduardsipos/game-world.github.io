@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gameworld.github.io/static/css/main.cedee27b.css",
-    "main.js": "/gameworld.github.io/static/js/main.18df0023.js",
-    "static/js/787.3018478d.chunk.js": "/gameworld.github.io/static/js/787.3018478d.chunk.js",
+    "main.css": "/gameworld.github.io/static/css/main.9b8da4a5.css",
+    "main.js": "/gameworld.github.io/static/js/main.73640c4a.js",
+    "static/js/787.0df80c2c.chunk.js": "/gameworld.github.io/static/js/787.0df80c2c.chunk.js",
     "static/media/SEGA.woff": "/gameworld.github.io/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/gameworld.github.io/index.html",
-    "main.cedee27b.css.map": "/gameworld.github.io/static/css/main.cedee27b.css.map",
-    "main.18df0023.js.map": "/gameworld.github.io/static/js/main.18df0023.js.map",
-    "787.3018478d.chunk.js.map": "/gameworld.github.io/static/js/787.3018478d.chunk.js.map"
+    "main.9b8da4a5.css.map": "/gameworld.github.io/static/css/main.9b8da4a5.css.map",
+    "main.73640c4a.js.map": "/gameworld.github.io/static/js/main.73640c4a.js.map",
+    "787.0df80c2c.chunk.js.map": "/gameworld.github.io/static/js/787.0df80c2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cedee27b.css",
-    "static/js/main.18df0023.js"
+    "static/css/main.9b8da4a5.css",
+    "static/js/main.73640c4a.js"
   ]
 }
